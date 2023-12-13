@@ -1,0 +1,40 @@
+.nav_items {
+    color:#ffffff;
+    background-color: black;
+}
+.logo {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 50%;
+    
+}
+.logoName {
+    margin-right: auto;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.link {
+    margin-right: 10px;
+    display: flex;
+    padding-top: 10px;
+}
+
+/* .test {
+    background: hsla(0, 3%, 31%, 0.1);
+    backdrop-filter: blur(1rem);
+width: 300px;
+margin-left: 0;
+    --gap: 2em;
+    position: fixed;
+    z-index: 1000;
+    inset: 0 60%;
+    padding-left: 20px;
+    flex-direction: column;
+    padding: min(30vh, 10rem) 2em 0 20px;
+    transform: translateX(100%);
+    transition: 350ms ease-in;
+  } */
+
+  
